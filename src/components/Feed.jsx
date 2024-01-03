@@ -32,7 +32,7 @@ const Feed = () => {
           variant='body2'
           sx={{ mt: 1.5, color: '#fff' }}
         >
-          Copyright 2023 Safad T M
+          Copyright 2023 Sunil K Joseph
         </Typography>
       </Box>
 
